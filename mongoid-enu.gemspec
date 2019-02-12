@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'mongoid/enum/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "mongoid-enum"
+  spec.name          = "mongoid-enu"
   spec.version       = Mongoid::Enum::VERSION
   spec.authors       = ["Nicholas Bruning"]
   spec.email         = ["nicholas@bruning.com.au"]
